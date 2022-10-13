@@ -1,7 +1,7 @@
 {
-  "name": "blaze",
+  "name": "blaze-tailwind",
   "author": "thecodizt",
-  "description": "Template for NextJS",
+  "description": "Template for NextJS + tailwind with typescript",
   "version": "0.1.0",
   "private": true,
   "license": "MIT",
